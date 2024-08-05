@@ -1,98 +1,11 @@
 # Кардаков Александр Николаевич
 [bswar.ru](https://bswar.ru/)
 
+![PHP](https://img.shields.io/badge/PHP-blue) ![Python](https://img.shields.io/badge/Python-blue) ![C++](https://img.shields.io/badge/C++-blue) ![TASM](https://img.shields.io/badge/TASM-blue) ![Java](https://img.shields.io/badge/Java-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-blue) ![Node.js](https://img.shields.io/badge/Node.js-blue) ![Bash](https://img.shields.io/badge/Bash-blue) 
+![HTML](https://img.shields.io/badge/HTML-blue) ![CSS](https://img.shields.io/badge/CSS-blue)
 
-## Специализация:
-- ERP
-- CRM
-- CMS
+![MySQL](https://img.shields.io/badge/MySQL-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green) ![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-green) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-green) ![Redis](https://img.shields.io/badge/Redis-green) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-green) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-green)
 
-## Перечень значимых работ профессиональной деятельности
-- Июнь 2024
-`Modbus клиент STM32 и proxy сервер`
-- Апрель 2024
-`Ядро ERP «Мастер»`
-- Январь 2024
-`Переезд монолита`
-- Декабрь 2023
-`Переезд MySQL`
-- Октябрь 2023
-`Внедрение Apache Kafka`
-- Сентябрь 2023
-`Freepbx и эксплойты`
-- Август 2023
-`Ядро внутренней CRM`
-- Июль 2023
-`ORM и шаблон микросервиса`
-- Июнь 2023
-`Переезд Apache Cassandra`
-- Апрель 2023
-`База знаний отдела разработки`
-- Январь 2023
-`Шлюз для WhatsApp`
-- Сентябрь 2022
-`ERP «ФинПлан»`
-- Август 2022
-`«ЭПТС» Модуль для ERP «БЕЛКА»`
-- Июль 2022
-`«SSL» Плагин для ERP «БЕЛКА»`
-- Июнь 2022
-`«СПБ» Модуль для ERP «БЕЛКА»`
-- Ноябрь 2021
-`«CarCoin» Плагин для ERP «БЕЛКА»`
-- Март 2021
-`«ApiGPSimgBot» бот для telegram`
-- Август 2020
-`«Проекты» Модуль для ERP «БЕЛКА»`
-- Май 2020
-`Визуальный граф аффилированности`
-- Февраль 2019
-`Справочник ОТТС`
-- Январь 2019
-`ERP «Карты для тахографов»`
-- Ноябрь 2018
-`ERP «Автошкола»`
-- Февраль 2018
-`«Полицейская маркировка» Модуль для ERP «БЕЛКА»`
-- Октябрь 2017
-`«Журналы» Модуль для ERP «БЕЛКА»`
-- Июнь 2017
-`«HelpDesk» Модуль для ERP «БЕЛКА»`
-- Март 2017
-`Справочник технических характеристик ТС`
-- Июль 2016
-`«ДС АТ» Модуль для ERP «БЕЛКА»`
-- Апрель 2016
-`«Производство ГРЗ» Модуль для ERP «БЕЛКА»`
-- Февраль 2016
-`«Калибровка Тахографов» Модуль для ERP «БЕЛКА»`
-- Декабрь 2015
-`«СБКТС» Модуль для ERP «БЕЛКА»`
-- Октябрь 2015
-`«Внесение изменений в конструкцию ТС» Модуль для ERP «БЕЛКА»`
-- Август 2015
-`Корпоративный мультидоменный сайт`
-- Апрель 2015
-`CRM «Онлайн запись на техосмотр»`
-- Декабрь 2014
-`ERP «БЕЛКА»`
-- Август 2014
-`ERP «TO+»`
-- Март 2014
-`Мониторинг Автотранспорта (меркурий TA-001)`
-- Октябрь 2013
-`Автоматизированная система для сбора заявок на ТО (ЕАИСТО)`
-- Август 2013
-`«Wepper» - Онлайн консультант для сайтов`
-- Май 2012
-`CMS - Конструктор сайтов «USWeb»`
-- Октябрь 2010
-`CRM система для управления ИП`
-- Декабрь 2009
-`Система учета склада, продаж`
-- Февраль 2009
-`Многопользовательская браузерная игра`
-- Сентябрь 2008
-`Справочник жилищного фонда`
-- Июль 2008
-`Фильмотека для личного аккаунта в P2P`
+![Linux](https://img.shields.io/badge/Linux-yellow) ![Windows Server](https://img.shields.io/badge/Windows_Server-yellow)  
+![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-yellow) ![Nginx](https://img.shields.io/badge/Nginx-yellow) ![HAProxy](https://img.shields.io/badge/HAProxy-yellow) 
+
